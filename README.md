@@ -65,7 +65,7 @@ Organização de projetos
 
 📌 Projetos em destaque
 🎮 Eryndor
-
+🎮 Solo fit System
 RPG de texto com narrativa interativa, sistema de classes, combate por turnos, inventário, loja, trilha sonora dinâmica e imagens contextuais.
 Desenvolvido com HTML, CSS e JavaScript, com estrutura preparada para rodar no navegador e também como app Android com Capacitor.
 

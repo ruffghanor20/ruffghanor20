@@ -1,9 +1,9 @@
-Olá, eu sou ruffghanor20👋
+<h1 align="center">Ruffghanor20 👋</h1>
+<h3 align="center">Desenvolvedor | Criador de Sistemas | Automação & Interfaces</h3>
 
-Sou desenvolvedor e criador de soluções com foco em automação, interfaces web, lógica de negócio e sistemas práticos para o mundo real.
-
-Atuo em projetos que combinam programação, organização de processos, melhoria contínua e experiência do usuário, sempre buscando transformar ideias em aplicações funcionais, úteis e bem estruturadas.
-
+<p align="center">
+Transformando ideias em sistemas úteis, claros e cada vez melhores.
+</p>
 🚀 Sobre mim
 
 💻 Desenvolvedor com foco em criação, manutenção e melhoria de software
@@ -88,15 +88,128 @@ Aprimorar minhas habilidades em automação e IA
 Criar aplicações cada vez mais completas e bem estruturadas
 
 Compartilhar soluções e ideias por meio de projetos no GitHub
+<h1 align="center">Ruffghanor20 👋</h1>
+<h3 align="center">Desenvolvedor | Criador de Sistemas | Automação & Interfaces</h3>
 
-🤝 Vamos nos conectar
+<p align="center">
+Transformando ideias em sistemas úteis, claros e cada vez melhores.
+</p>
 
-Estou sempre buscando aprender, construir e melhorar.
+---
+
+## 🚀 Sobre mim
+
+Sou desenvolvedor focado em **automação, interfaces web e lógica de negócio aplicada ao mundo real**.
+
+Gosto de construir sistemas práticos, bem estruturados e funcionais, sempre buscando clareza, eficiência e evolução contínua.
+
+Trabalho com:
+
+- Criação e melhoria de software  
+- Organização de processos  
+- Automação e produtividade  
+- Experiência do usuário  
+- Sistemas gamificados  
+
+---
+
+## 🧠 Áreas de Interesse
+
+- Desenvolvimento Web (Front-end e Back-end)
+- Automação de processos
+- Interfaces e UX
+- Inteligência Artificial
+- Estruturas de dados e algoritmos
+- Integração entre lógica e interface
+- Sistemas criativos e gamificados
+
+---
+
+## ⚒️ Stack Principal
+
+### 💻 Linguagens
+
+<p>
+<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-Web-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-Systems-informational?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSS3-Style-blueviolet?style=for-the-badge"/>
+</p>
+
+### 🛠️ Ferramentas e práticas
+
+- Git & GitHub  
+- APIs  
+- Automação  
+- Desenvolvimento responsivo  
+- Estruturação de interfaces  
+- Organização de projetos  
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🎮 Eryndor / Solo Fit System
+
+Sistema gamificado com narrativa interativa, classes, combate por turnos, inventário, loja e trilha sonora dinâmica.
+
+**Tecnologias:** HTML, CSS, JavaScript  
+**Diferencial:** estrutura preparada para navegador e adaptação para Android com Capacitor.
+
+---
+
+### 🧠 Projetos de Automação
+
+Ferramentas e sistemas voltados para:
+
+- Produtividade  
+- Controle  
+- Organização de processos  
+- Experiência do usuário  
+
+---
+
+### 🌐 Interfaces Web
+
+Desenvolvimento de layouts com foco em:
+
+- Clareza  
+- Usabilidade  
+- Simplicidade  
+- Boa apresentação visual  
+
+---
+
+## 📈 Objetivos Atuais
+
+- Evoluir tecnicamente como desenvolvedor  
+- Expandir projetos autorais  
+- Aprofundar automação e IA  
+- Criar aplicações cada vez mais completas  
+- Compartilhar soluções no GitHub  
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ruffghanor20&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruffghanor20&layout=compact&theme=dark"/>
+</p>
+
+---
+
+## 🤝 Conecte-se
+
 Se você gosta de tecnologia, automação, interfaces ou projetos criativos, seja bem-vindo ao meu perfil.
 
+---
 
+## 💡 Filosofia
 
-
-💡 Frase que define meu estilo
+> Sistemas bons não são os mais complexos.  
+> São os mais claros, úteis e bem pensados.
 
 Transformar ideias em sistemas úteis, claros e cada vez melhores.

@@ -119,7 +119,7 @@ Se você gosta de tecnologia, automação, interfaces ou projetos criativos, sej
 
 ---
 
-## � Filosofia
+## 💭 Filosofia
 
 > Sistemas bons não são os mais complexos.  
 > São os mais claros, úteis e bem pensados.

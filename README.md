@@ -1,4 +1,3 @@
-
 <h1 align="center">Ruffghanor20 👋</h1>
 <h3 align="center">Desenvolvedor | Criador de Sistemas | Automação & Interfaces</h3>
 
@@ -14,7 +13,7 @@ Sou desenvolvedor focado em **automação, interfaces web e lógica de negócio 
 
 Gosto de construir sistemas práticos, bem estruturados e funcionais, sempre buscando clareza, eficiência e evolução contínua.
 
-Trabalho com:
+### O que faço
 
 - Criação e melhoria de software  
 - Organização de processos  
@@ -24,7 +23,7 @@ Trabalho com:
 
 ---
 
-## 🧠 Áreas de Interesse
+## 🧠 Áreas de interesse
 
 - Desenvolvimento Web (Front-end e Back-end)
 - Automação de processos
@@ -36,7 +35,7 @@ Trabalho com:
 
 ---
 
-## ⚒️ Stack Principal
+## ⚒️ Stack principal
 
 ### 💻 Linguagens
 
@@ -67,7 +66,8 @@ RPG de texto com narrativa interativa, sistema de classes, combate por turnos, i
 Desenvolvido com HTML, CSS e JavaScript, com estrutura preparada para rodar no navegador e também como app Android com Capacitor.
 
 ⚔️ Solo Fit System-
-App gamificado estilo RPG inspirado em Solo Leveling que transforma hábitos e treinos em evolução de personagem (XP, atributos, equipamentos e ranks). Offline-first e pronto para Android. 
+App gamificado estilo RPG inspirado em Solo Leveling que transforma hábitos e treinos em evolução de personagem (XP, atributos, equipamentos e ranks). 
+Offline-first e pronto para Android. 
 
 ---
 

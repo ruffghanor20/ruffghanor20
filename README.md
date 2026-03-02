@@ -108,7 +108,8 @@ Desenvolvimento de layouts com foco em:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ruffghanor20&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruffghanor20&layout=compact&theme=dark"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ruffghanor20&show_icons=true&theme=dark" alt="Estatísticas GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruffghanor20&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
 
 ---
 

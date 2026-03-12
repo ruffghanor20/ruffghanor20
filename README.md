@@ -1,127 +1,106 @@
 <h1 align="center">Ruffghanor20 👋</h1>
-<h3 align="center">Desenvolvedor | Criador de Sistemas | Automação & Interfaces</h3>
+<h3 align="center">Desenvolvedor de Sistemas | Automação | Interfaces Web</h3>
 
 <p align="center">
-Transformando ideias em sistemas úteis, claros e cada vez melhores.
+Construindo soluções úteis, objetivas e com foco em experiência real de uso.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor focado em **automação, interfaces web e lógica de negócio aplicada ao mundo real**.
+Sou desenvolvedor com foco em **sistemas práticos**, **automação de processos** e **interfaces web funcionais**.
 
-Gosto de construir sistemas práticos, bem estruturados e funcionais, sempre buscando clareza, eficiência e evolução contínua.
-
-### O que faço
-
-- Criação e melhoria de software  
-- Organização de processos  
-- Automação e produtividade  
-- Experiência do usuário  
-- Sistemas gamificados  
+Minha abordagem combina:
+- lógica de negócio clara,
+- organização de fluxo,
+- e experiência do usuário para transformar ideias em produtos utilizáveis.
 
 ---
 
-## 🧠 Áreas de interesse
+## 🧠 Competências atualizadas
 
-- Desenvolvimento Web (Front-end e Back-end)
-- Automação de processos
-- Interfaces e UX
-- Inteligência Artificial
-- Estruturas de dados e algoritmos
-- Integração entre lógica e interface
-- Sistemas criativos e gamificados
+### Engenharia e desenvolvimento
+- Desenvolvimento web com **HTML, CSS e JavaScript**
+- Estruturação de aplicações orientadas a componentes e módulos
+- Construção de regras de negócio para sistemas interativos
+- Organização de código para manutenção e evolução contínua
+
+### Produto e experiência
+- Planejamento de fluxos de uso e jornadas do usuário
+- Criação de interfaces com foco em clareza e usabilidade
+- Design de sistemas gamificados (progressão, feedback, recompensas)
+- Tradução de ideias em funcionalidades incrementais
+
+### Automação e produtividade
+- Mapeamento e melhoria de processos repetitivos
+- Criação de soluções para controle, rotina e performance
+- Organização de projetos com foco em execução prática
 
 ---
 
 ## ⚒️ Stack principal
 
 ### 💻 Linguagens
-
 <p>
-<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-Web-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C++-Systems-informational?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CSS3-Style-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Automation-blue?style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-Web-yellow?style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-Systems-informational?style=for-the-badge" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-UI-blueviolet?style=for-the-badge" alt="CSS3"/>
 </p>
 
-### 🛠️ Ferramentas e práticas
-
-- Git & GitHub  
-- APIs  
-- Automação  
-- Desenvolvimento responsivo  
-- Estruturação de interfaces  
-- Organização de projetos  
+### 🧰 Ferramentas e práticas
+- Git & GitHub
+- Integração com APIs
+- Desenvolvimento responsivo
+- Prototipação de interfaces
+- Organização de backlog e evolução por versões
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projetos em destaque
 
-🎮 Eryndor-
-RPG de texto com narrativa interativa, sistema de classes, combate por turnos, inventário, loja, trilha sonora dinâmica e imagens contextuais.
-Desenvolvido com HTML, CSS e JavaScript, com estrutura preparada para rodar no navegador e também como app Android com Capacitor.
+### 🎮 Eryndor
+RPG de texto com narrativa interativa, classes, combate por turnos, inventário e loja.
+Projeto desenvolvido para web com **HTML, CSS e JavaScript**, com estrutura para execução no navegador e empacotamento Android via **Capacitor**.
 
-⚔️ Solo Fit System-
-App gamificado estilo RPG inspirado em Solo Leveling que transforma hábitos e treinos em evolução de personagem (XP, atributos, equipamentos e ranks). 
-Offline-first e pronto para Android. 
-
----
-
-### 🧠 Projetos de Automação
-
-Ferramentas e sistemas voltados para:
-
-- Produtividade  
-- Controle  
-- Organização de processos  
-- Experiência do usuário  
+### ⚔️ Solo Fit System
+Sistema gamificado inspirado em RPG para transformar hábitos e treinos em progressão de personagem (XP, atributos, equipamentos e ranks).
+Arquitetura com foco em uso contínuo, experiência motivacional e abordagem **offline-first**.
 
 ---
 
-### 🌐 Interfaces Web
+## 🧭 Direção atual
 
-Desenvolvimento de layouts com foco em:
-
-- Clareza  
-- Usabilidade  
-- Simplicidade  
-- Boa apresentação visual  
-
----
-
-## 📈 Objetivos Atuais
-
-- Evoluir tecnicamente como desenvolvedor  
-- Expandir projetos autorais  
-- Aprofundar automação e IA  
-- Criar aplicações cada vez mais completas  
-- Compartilhar soluções no GitHub  
+- Evoluir para soluções mais robustas de automação
+- Publicar versões mais completas dos projetos autorais
+- Integrar IA aplicada a fluxo e tomada de decisão
+- Fortalecer arquitetura e qualidade de entrega
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ruffghanor20&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruffghanor20&layout=compact&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ruffghanor20&show_icons=true&theme=dark" alt="Estatísticas GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruffghanor20&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
+</p>
 
 ---
 
 ## 🤝 Conecte-se
 
-Se você gosta de tecnologia, automação, interfaces ou projetos criativos, seja bem-vindo ao meu perfil.
+Aberto a networking, colaboração em projetos e troca de conhecimento em:
+- automação,
+- sistemas web,
+- gamificação,
+- e produtividade aplicada.
 
 ---
 
 ## 💭 Filosofia
 
-> Sistemas bons não são os mais complexos.  
-> São os mais claros, úteis e bem pensados.
-
-Transformar ideias em sistemas úteis, claros e cada vez melhores.
+> Sistemas bons não precisam ser complexos.
+> Precisam ser claros, úteis e bem executados.

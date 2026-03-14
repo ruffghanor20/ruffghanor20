@@ -46,6 +46,8 @@ Minha abordagem combina:
 <p>
   <img src="https://img.shields.io/badge/Python-Automation-blue?style=for-the-badge" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-Web-yellow?style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-Typed-3178c6?style=for-the-badge" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge" alt="Java"/>
   <img src="https://img.shields.io/badge/C++-Systems-informational?style=for-the-badge" alt="C++"/>
   <img src="https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge" alt="HTML5"/>
@@ -63,13 +65,25 @@ Minha abordagem combina:
 
 ## 📌 Projetos em destaque
 
-### 🎮 Eryndor
-RPG de texto com narrativa interativa, classes, combate por turnos, inventário e loja.
-Projeto desenvolvido para web com **HTML, CSS e JavaScript**, com estrutura para execução no navegador e empacotamento Android via **Capacitor**.
+### 🎮 Games & RPG
 
-### ⚔️ Solo Fit System
-Sistema gamificado inspirado em RPG para transformar hábitos e treinos em progressão de personagem (XP, atributos, equipamentos e ranks).
-Arquitetura com foco em uso contínuo, experiência motivacional e abordagem **offline-first**.
+| Projeto | Descrição | Tecnologia |
+|---------|-----------|------------|
+| [🗡️ Eryndor](https://github.com/ruffghanor20/Eryndor) | RPG de texto com narrativa interativa, combate por turnos, classes, inventário, múltiplos capítulos, trilha sonora dinâmica e empacotamento Android via Capacitor. | JavaScript |
+| [⚔️ Solo Fit System](https://github.com/ruffghanor20/Solo-Fit-System) | App gamificado estilo RPG inspirado em Solo Leveling que transforma hábitos e treinos em evolução de personagem (XP, atributos, equipamentos e ranks). Offline-first e pronto para Android. | JavaScript |
+| [🏟️ O Círculo da Ascensão](https://github.com/ruffghanor20/o-circulo-da-ascens-o) | Jogo de arena desenvolvido com **Phaser.js**, com personagem, boss, inventário, loja, habilidades, sistema de conquistas, modo New Game+ e empacotamento para Android. | JavaScript |
+| [🎯 Mini Game Arena](https://github.com/ruffghanor20/mini-game-arena) | Arena de mini games com foco em entretenimento rápido e mecânicas variadas de combate. | JavaScript |
+| [🌲 Simulador de Sobrevivência](https://github.com/ruffghanor20/Simulador-de-sobreviv-ncia-por-turnos) | Simulador de sobrevivência por turnos com 5 atributos, 6 ações, eventos aleatórios, sistema de dias, dificuldade e persistência em localStorage. | JavaScript |
+| [🧌 Contagem de Estoque (Mini Game)](https://github.com/ruffghanor20/Contagem-de-estoque) | Mini game com 2 inimigos, loja e sistema de progressão de personagem. | JavaScript |
+
+### 💰 Finanças & Gestão
+
+| Projeto | Descrição | Tecnologia |
+|---------|-----------|------------|
+| [📊 Controlador Financeiro](https://github.com/ruffghanor20/Controlador-financeiro) | Controla entradas e saídas de negócios com interface web. | JavaScript |
+| [💸 Controle de Gastos (Web)](https://github.com/ruffghanor20/Controle-de-gastos) | Controle de gastos pessoais desenvolvido com Flask e Python. | Python |
+| [📱 App Controle de Gastos](https://github.com/ruffghanor20/App-controle-de-gastos-) | Aplicativo Android nativo desenvolvido com **Kotlin + Jetpack Compose + Room**. | Kotlin |
+| [📦 Ciclo de Inventário](https://github.com/ruffghanor20/Ciclo-de-Inventario) | App de inventário operacional para uso em campo, com scanner, modo offline, sessões de contagem e relatórios. | TypeScript |
 
 ---
 

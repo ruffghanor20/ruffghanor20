@@ -74,7 +74,6 @@ Minha abordagem combina:
 | [🏟️ O Círculo da Ascensão](https://github.com/ruffghanor20/o-circulo-da-ascens-o) | Jogo de arena desenvolvido com **Phaser.js**, com personagem, boss, inventário, loja, habilidades, sistema de conquistas, modo New Game+ e empacotamento para Android. | JavaScript |
 | [🎯 Mini Game Arena](https://github.com/ruffghanor20/mini-game-arena) | Arena de mini games com foco em entretenimento rápido e mecânicas variadas de combate. | JavaScript |
 | [🌲 Simulador de Sobrevivência](https://github.com/ruffghanor20/Simulador-de-sobreviv-ncia-por-turnos) | Simulador de sobrevivência por turnos com 5 atributos, 6 ações, eventos aleatórios, sistema de dias, dificuldade e persistência em localStorage. | JavaScript |
-| [🧌 Contagem de Estoque (Mini Game)](https://github.com/ruffghanor20/Contagem-de-estoque) | Mini game com 2 inimigos, loja e sistema de progressão de personagem. | JavaScript |
 
 ### 💰 Finanças & Gestão
 

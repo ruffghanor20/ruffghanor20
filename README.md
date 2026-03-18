@@ -84,6 +84,12 @@ Minha abordagem combina:
 | [📱 App Controle de Gastos](https://github.com/ruffghanor20/App-controle-de-gastos-) | Aplicativo Android nativo desenvolvido com **Kotlin + Jetpack Compose + Room**. | Kotlin |
 | [📦 Ciclo de Inventário](https://github.com/ruffghanor20/Ciclo-de-Inventario) | App de inventário operacional para uso em campo, com scanner, modo offline, sessões de contagem e relatórios. | TypeScript |
 
+### 🛠️ Ferramentas & Utilitários
+
+| Projeto | Descrição | Tecnologia |
+|---------|-----------|------------|
+| [🖼️ Image Shrink](https://github.com/ruffghanor20/Image-shrink) | Script para reduzir o tamanho de assets de imagens de forma automatizada. | Python |
+
 ---
 
 ## 🧭 Direção atual
